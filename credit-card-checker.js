@@ -1,3 +1,10 @@
+// Hi, this is my take on the project 'Credit Card Checker' on Code Academy.
+// I have already revised the first two function but the last one, the one that checks the Credit Card Company is my original.
+// The code worked well but when I tried going to the extension, it doesn't work as well with Numbers as its parameter.
+// Can anyone tell me what's wrong?
+// Below is the code I used. Thank you in advance!
+
+
 // All valid credit card numbers
 const valid1 = [4, 5, 3, 9, 6, 7, 7, 9, 0, 8, 0, 1, 6, 8, 0, 8];
 const valid2 = [5, 5, 3, 5, 7, 6, 6, 7, 6, 8, 7, 5, 1, 4, 3, 9];
